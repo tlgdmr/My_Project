@@ -1,0 +1,13 @@
+D:\Project C#\Rock Scissors Paper\bin\Debug\netcoreapp3.1\Rock Scissors Paper.exe
+D:\Project C#\Rock Scissors Paper\bin\Debug\netcoreapp3.1\Rock Scissors Paper.deps.json
+D:\Project C#\Rock Scissors Paper\bin\Debug\netcoreapp3.1\Rock Scissors Paper.runtimeconfig.json
+D:\Project C#\Rock Scissors Paper\bin\Debug\netcoreapp3.1\Rock Scissors Paper.runtimeconfig.dev.json
+D:\Project C#\Rock Scissors Paper\bin\Debug\netcoreapp3.1\Rock Scissors Paper.dll
+D:\Project C#\Rock Scissors Paper\bin\Debug\netcoreapp3.1\Rock Scissors Paper.pdb
+D:\Project C#\Rock Scissors Paper\obj\Debug\netcoreapp3.1\Rock Scissors Paper.csprojAssemblyReference.cache
+D:\Project C#\Rock Scissors Paper\obj\Debug\netcoreapp3.1\Rock Scissors Paper.AssemblyInfoInputs.cache
+D:\Project C#\Rock Scissors Paper\obj\Debug\netcoreapp3.1\Rock Scissors Paper.AssemblyInfo.cs
+D:\Project C#\Rock Scissors Paper\obj\Debug\netcoreapp3.1\Rock Scissors Paper.csproj.CoreCompileInputs.cache
+D:\Project C#\Rock Scissors Paper\obj\Debug\netcoreapp3.1\Rock Scissors Paper.dll
+D:\Project C#\Rock Scissors Paper\obj\Debug\netcoreapp3.1\Rock Scissors Paper.pdb
+D:\Project C#\Rock Scissors Paper\obj\Debug\netcoreapp3.1\Rock Scissors Paper.genruntimeconfig.cache
