@@ -1,0 +1,26 @@
+D:\Project C#\Average of Lessons\bin\Debug\netcoreapp3.1\Average of Lessons.exe
+D:\Project C#\Average of Lessons\bin\Debug\netcoreapp3.1\Average of Lessons.deps.json
+D:\Project C#\Average of Lessons\bin\Debug\netcoreapp3.1\Average of Lessons.runtimeconfig.json
+D:\Project C#\Average of Lessons\bin\Debug\netcoreapp3.1\Average of Lessons.runtimeconfig.dev.json
+D:\Project C#\Average of Lessons\bin\Debug\netcoreapp3.1\Average of Lessons.dll
+D:\Project C#\Average of Lessons\bin\Debug\netcoreapp3.1\Average of Lessons.pdb
+D:\Project C#\Average of Lessons\obj\Debug\netcoreapp3.1\Average of Lessons.AssemblyInfoInputs.cache
+D:\Project C#\Average of Lessons\obj\Debug\netcoreapp3.1\Average of Lessons.AssemblyInfo.cs
+D:\Project C#\Average of Lessons\obj\Debug\netcoreapp3.1\Average of Lessons.csproj.CoreCompileInputs.cache
+D:\Project C#\Average of Lessons\obj\Debug\netcoreapp3.1\Average of Lessons.dll
+D:\Project C#\Average of Lessons\obj\Debug\netcoreapp3.1\Average of Lessons.pdb
+D:\Project C#\Average of Lessons\obj\Debug\netcoreapp3.1\Average of Lessons.genruntimeconfig.cache
+D:\Project C#\Average of Lessons\obj\Debug\netcoreapp3.1\Average of Lessons.csprojAssemblyReference.cache
+D:\Project C#\Average Of Lesson Grade Updated\bin\Debug\netcoreapp3.1\Average of Lessons.exe
+D:\Project C#\Average Of Lesson Grade Updated\bin\Debug\netcoreapp3.1\Average of Lessons.deps.json
+D:\Project C#\Average Of Lesson Grade Updated\bin\Debug\netcoreapp3.1\Average of Lessons.runtimeconfig.json
+D:\Project C#\Average Of Lesson Grade Updated\bin\Debug\netcoreapp3.1\Average of Lessons.runtimeconfig.dev.json
+D:\Project C#\Average Of Lesson Grade Updated\bin\Debug\netcoreapp3.1\Average of Lessons.dll
+D:\Project C#\Average Of Lesson Grade Updated\bin\Debug\netcoreapp3.1\Average of Lessons.pdb
+D:\Project C#\Average Of Lesson Grade Updated\obj\Debug\netcoreapp3.1\Average of Lessons.csprojAssemblyReference.cache
+D:\Project C#\Average Of Lesson Grade Updated\obj\Debug\netcoreapp3.1\Average of Lessons.AssemblyInfoInputs.cache
+D:\Project C#\Average Of Lesson Grade Updated\obj\Debug\netcoreapp3.1\Average of Lessons.AssemblyInfo.cs
+D:\Project C#\Average Of Lesson Grade Updated\obj\Debug\netcoreapp3.1\Average of Lessons.csproj.CoreCompileInputs.cache
+D:\Project C#\Average Of Lesson Grade Updated\obj\Debug\netcoreapp3.1\Average of Lessons.dll
+D:\Project C#\Average Of Lesson Grade Updated\obj\Debug\netcoreapp3.1\Average of Lessons.pdb
+D:\Project C#\Average Of Lesson Grade Updated\obj\Debug\netcoreapp3.1\Average of Lessons.genruntimeconfig.cache
